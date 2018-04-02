@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PHP-Lesson2</title>
+</head>
+
+<body>
+
 <?php
 $x = rand(0,100);
 echo '<h1>Число: ' . $x . '</h1>';
@@ -21,3 +30,6 @@ while (true)
 }
 echo '</ul>';
 ?>
+
+</body>
+</html>
